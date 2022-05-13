@@ -9,5 +9,8 @@
 <body>
     <h1>hello world</h1>
     <p>Ini adalah index php</p>
+    <ul>
+        <li>satu</li>
+    </ul>
 </body>
 </html>
